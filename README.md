@@ -5,6 +5,7 @@
 - 💻 Programming languages -> Java, Python, Javascript
 - 🖼️ Frameworks -> Flask, Express
 - 📚 Libraries -> ReactJS
+- :bar_chart: Database -> MySQL, Oracle SQL, MongoDB
 
 <!---
 vishalghosh7/vishalghosh7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
