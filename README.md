@@ -2,9 +2,9 @@
 - 👀 I’m interested in Web Development and DevOps 
 - :briefcase: I work at AWS as a Big Data Cloud Associate
 - 🌱 As a side hustle, I’m currently working with MERN stack
-- :star: Programming languages -> Java, Python, Javascript
-- :star: Frameworks -> Flask, Express
-- :star: Libraries -> ReactJS
+- 💻 Programming languages -> Java, Python, Javascript
+- 🖼️ Frameworks -> Flask, Express
+- 📚 Libraries -> ReactJS
 
 <!---
 vishalghosh7/vishalghosh7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
