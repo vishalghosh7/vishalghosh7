@@ -3,7 +3,7 @@
 - :briefcase: I work at AWS as a Big Data Cloud Associate
 - 🌱 As a side hustle, I’m currently working with MERN stack
 - 💻 Programming languages -> Java, Python, Javascript
-- 🖼️ Frameworks -> Flask, Express
+- 🖼️ Frameworks -> Flask, Express, NextJS
 - 📚 Libraries -> ReactJS
 - :bar_chart: Database -> MySQL, Oracle SQL, MongoDB
 
